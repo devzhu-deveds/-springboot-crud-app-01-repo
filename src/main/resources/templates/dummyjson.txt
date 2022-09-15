@@ -1,0 +1,44 @@
+
+{
+"email": "succiplayor@edsit.com",
+"jobtitle":"gamedesign",
+"name": "succi playor",
+"phone":"99629244"
+
+}
+
+
+{
+"email": "dimitribabertov@edsit.com",
+"jobtitle":"go getter",
+"name": "Dimitri babertov ",
+"phone":"1423878347"
+
+}
+
+{
+"email": "succi6t@yahoo.com",
+"jobtitle":"developer",
+"name": "succi Tortilla",
+"phone":"73247828"
+
+}
+
+
+{
+"email": "natashagemni@edsit.com",
+"jobtitle":"developer",
+"name": "Natasha gemni",
+"phone":"63463378"
+
+}
+
+{
+"email": "stacysmom@edsit.com",
+"jobtitle":"senior developer",
+"name": "stacys mom",
+"phone":"85748871"
+
+}
+
+
